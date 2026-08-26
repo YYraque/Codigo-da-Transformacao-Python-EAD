@@ -1,8 +1,3 @@
-def saudacao(nome):
-    print(f"Olá, {nome}! Que bom te ver por aqui.")
+nome = input("Digite o seu nome: ")
 
-print("--- Chamando a função 'saudacao' ---")
-saudacao("João")
-saudacao("Maria")
-meu_nome = "Parceiro de Programação"
-saudacao(meu_nome)
+print(f"Olá, {nome}! Seja bem-vindo(a) ao mundo do Python!") 

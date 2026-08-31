@@ -1,0 +1,2 @@
+Primeira linha de dados no arquivo TXT.
+Segunda linha armazenada com sucesso!
